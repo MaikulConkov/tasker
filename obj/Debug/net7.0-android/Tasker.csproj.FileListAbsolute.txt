@@ -962,6 +962,7 @@ C:\.Net everything to start a job\MAUI\Tasker\Tasker\obj\Debug\net7.0-android\lp
 C:\.Net everything to start a job\MAUI\Tasker\Tasker\obj\Debug\net7.0-android\Tasker.csproj.Fody.CopyLocal.cache
 C:\.Net everything to start a job\MAUI\Tasker\Tasker\obj\Debug\net7.0-android\Tasker.csproj.Fody.RuntimeCopyLocal.cache
 C:\.Net everything to start a job\MAUI\Tasker\Tasker\obj\Debug\net7.0-android\android\assets\PropertyChanged.dll
+C:\.Net everything to start a job\MAUI\Tasker\Tasker\obj\Debug\net7.0-android\Tasker.sourcelink.json
 C:\.Net everything to start a job\MAUI\Tasker\Tasker\obj\Debug\net7.0-android\android\assets\arm64-v8a\mscorlib.dll
 C:\.Net everything to start a job\MAUI\Tasker\Tasker\obj\Debug\net7.0-android\android\assets\arm64-v8a\System.Collections.Concurrent.dll
 C:\.Net everything to start a job\MAUI\Tasker\Tasker\obj\Debug\net7.0-android\android\assets\arm64-v8a\System.Data.Common.dll
